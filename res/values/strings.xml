@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PoKeTacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="results_name">Name</string>
+    <string name="results_height_ft">Feet</string>
+    <string name="results_height_in">Inches</string>
+    <string name="results_weight">Weight</string>
+    <string name="results_type">Type(s)</string>
+    <string name="results_area">Area:</string>
+    <string name="results_home_number">Home:</string>
+    <string name="results_mobile_number">Mobile:</string>
+    <string name="results_work_number">Work:</string>
+
+    <string name="spin_default">Choose Type</string>
+
+    <string name="button_description">Details</string>
+    <string name="button_area">Area</string>
+    <string name="button_cry">Cry</string>
+
+    <string name="results_name_test">Name Here</string>
+    <string name="results_height_test">Height Here</string>
+    <string name="results_weight_test">Weight Here</string>
+    <string name="results_area_test">Area Here</string>
+    <string name="title_activity_ind_contact">IndContactActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="G">G</string>
+    <string name="H">H</string>
+    <string name="I">I</string>
+    <string name="J">J</string>
+    <string name="K">K</string>
+    <string name="action_addcontact">Add Contact</string>
+    <string name="action_editContact">Edit Contact</string>
+    <string name="title_activity_addeditcontact">addeditcontact</string>
+    <string name="addedit_phone">Phone</string>
+    <string name="addedit_number">Number</string>
+    <string name="addnumberfieldbutton">Add Number Field</string>
+
+    <string name="image_dialog_title">Get Image From</string>
+    <string name="image_dialog_camera">From Camera</string>
+    <string name="image_dialog_images">From Images</string>
+
+    <string name="action_addedit_save">Save</string>
+    <string name="choose_new_field">Choose New Field</string>
+    <string name="add_address">Address</string>
+    <string name="longclick_edit_button">Edit Contact</string>
+    <string name="longclick_delete_contact">Delete Contact</string>
+    <string name="longclick_chooseaction">Choose Action</string>
+    <string name="action_randomize">Randomize</string>
+</resources>

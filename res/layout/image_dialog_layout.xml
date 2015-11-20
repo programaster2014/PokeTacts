@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="225dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/image_dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/image_dialog_title"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="@drawable/bottomborder"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@drawable/bottomborder"
+        android:text="@string/image_dialog_camera"
+        android:textSize="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@drawable/bottomborder"
+        android:text="@string/image_dialog_images"
+        android:textSize="20dp"
+        android:onClick="from_images"/>
+
+</LinearLayout>

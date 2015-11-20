@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types_1">
+        <item>Normal</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Electric</item>
+        <item>Grass</item>
+        <item>Ice</item>
+        <item>Fighting</item>
+        <item>Poison</item>
+        <item>Ground</item>
+        <item>Flying</item>
+        <item>Psychic</item>
+        <item>Bug</item>
+        <item>Rock</item>
+        <item>Ghost</item>
+        <item>Dragon</item>
+        <item>Dark</item>
+        <item>Steel</item>
+        <item>Fairy</item>
+    </string-array>
+
+    <string-array name="types_2">
+        <item>None</item>
+        <item>Normal</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Electric</item>
+        <item>Grass</item>
+        <item>Ice</item>
+        <item>Fighting</item>
+        <item>Poison</item>
+        <item>Ground</item>
+        <item>Flying</item>
+        <item>Psychic</item>
+        <item>Bug</item>
+        <item>Rock</item>
+        <item>Ghost</item>
+        <item>Dragon</item>
+        <item>Dark</item>
+        <item>Steel</item>
+        <item>Fairy</item>
+    </string-array>
+
+    <string-array name="phone_types">
+        <item>Mobile</item>
+        <item>Home</item>
+        <item>Work</item>
+    </string-array>
+
+    <string-array name="image_input_array">
+        <item>From Camera</item>
+        <item>From Images</item>
+    </string-array>
+</resources>

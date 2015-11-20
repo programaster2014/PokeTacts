@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainContactsList">
+
+    <item
+        android:id="@+id/action_addContact"
+        android:title="@string/action_addcontact"
+        android:orderInCategory="1"
+        android:icon="@drawable/add_contact_icon"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_editContact"
+        android:title="@string/action_editContact"
+        android:orderInCategory="2"
+        android:icon="@drawable/editusercontact"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/settingsicon"
+        app:showAsAction="ifRoom" />
+    
+</menu>
